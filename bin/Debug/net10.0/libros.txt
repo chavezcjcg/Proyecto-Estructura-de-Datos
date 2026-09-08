@@ -1,0 +1,16 @@
+B001|Indigno de ser humano|Osamu Dazai|Novela|5
+L001|El principito|Antoine de Saine-Exupery|Literatura|4
+L002|Clean COde|Robert C. Martin |Tecnologia|2
+L003|Cien años de soledad|Gabriel Garcia Marquez|Literatura|5
+L004|Introduccion de algoritmos|Cormen At al.|Tecnologia|3
+L005|1984|George Orwell|Literatura|2
+L006|El universo en una cáscara de nuez|Stephen Hawking|Ciencia|3	
+L007|Don Quijote de la Mancha|Miguel de Cervantes|Literatura|4	5
+L008|Cosmos	Carl Sagan|Ciencia|2	
+L009|Design Patterns|Gamma et al.|Tecnología|1
+L010|Breve historia del tiempo|Stephen Hawking|Ciencia|3
+L011|Dune|Frank Herbert|Ciencia Ficción|2
+L012|El hobbit|J.R.R. Tolkien|Fantasía|4
+L013|Fundamentos de bases de datos|Elmasri y Navathe|Tecnología|3
+L014|La guerra de los mundos	H.G. Wells|Ciencia Ficción|2
+L015|Sapiens|Yuval Noah Harari|Historia|3

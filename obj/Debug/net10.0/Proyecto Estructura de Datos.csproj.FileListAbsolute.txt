@@ -1,0 +1,14 @@
+C:\Users\CJCG\OneDrive - Universidad Rafael Landivar\Desktop\Proyecto Estructura de Datos\bin\Debug\net10.0\Proyecto Estructura de Datos.exe
+C:\Users\CJCG\OneDrive - Universidad Rafael Landivar\Desktop\Proyecto Estructura de Datos\bin\Debug\net10.0\Proyecto Estructura de Datos.deps.json
+C:\Users\CJCG\OneDrive - Universidad Rafael Landivar\Desktop\Proyecto Estructura de Datos\bin\Debug\net10.0\Proyecto Estructura de Datos.runtimeconfig.json
+C:\Users\CJCG\OneDrive - Universidad Rafael Landivar\Desktop\Proyecto Estructura de Datos\bin\Debug\net10.0\Proyecto Estructura de Datos.dll
+C:\Users\CJCG\OneDrive - Universidad Rafael Landivar\Desktop\Proyecto Estructura de Datos\bin\Debug\net10.0\Proyecto Estructura de Datos.pdb
+C:\Users\CJCG\OneDrive - Universidad Rafael Landivar\Desktop\Proyecto Estructura de Datos\obj\Debug\net10.0\Proyecto Estructura de Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CJCG\OneDrive - Universidad Rafael Landivar\Desktop\Proyecto Estructura de Datos\obj\Debug\net10.0\Proyecto Estructura de Datos.AssemblyInfoInputs.cache
+C:\Users\CJCG\OneDrive - Universidad Rafael Landivar\Desktop\Proyecto Estructura de Datos\obj\Debug\net10.0\Proyecto Estructura de Datos.AssemblyInfo.cs
+C:\Users\CJCG\OneDrive - Universidad Rafael Landivar\Desktop\Proyecto Estructura de Datos\obj\Debug\net10.0\Proyecto Estructura de Datos.csproj.CoreCompileInputs.cache
+C:\Users\CJCG\OneDrive - Universidad Rafael Landivar\Desktop\Proyecto Estructura de Datos\obj\Debug\net10.0\Proyecto Estructura de Datos.dll
+C:\Users\CJCG\OneDrive - Universidad Rafael Landivar\Desktop\Proyecto Estructura de Datos\obj\Debug\net10.0\refint\Proyecto Estructura de Datos.dll
+C:\Users\CJCG\OneDrive - Universidad Rafael Landivar\Desktop\Proyecto Estructura de Datos\obj\Debug\net10.0\Proyecto Estructura de Datos.pdb
+C:\Users\CJCG\OneDrive - Universidad Rafael Landivar\Desktop\Proyecto Estructura de Datos\obj\Debug\net10.0\Proyecto Estructura de Datos.genruntimeconfig.cache
+C:\Users\CJCG\OneDrive - Universidad Rafael Landivar\Desktop\Proyecto Estructura de Datos\obj\Debug\net10.0\ref\Proyecto Estructura de Datos.dll
